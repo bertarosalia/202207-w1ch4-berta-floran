@@ -50,3 +50,14 @@ h1 {
 .texto {
   font-size: 38px;
 }
+.lista-compra {
+  background-color: #ff9933;
+  display: flex;
+  min-height: 100vw;
+}
+.lista-compra__elementos > li {
+  list-style: none;
+}
+.lista-precio {
+  display: flex;
+}
